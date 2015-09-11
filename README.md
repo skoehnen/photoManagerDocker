@@ -1,3 +1,1 @@
 # photoManagerDocker
-# photoManagerDocker
-# photoManagerDocker
